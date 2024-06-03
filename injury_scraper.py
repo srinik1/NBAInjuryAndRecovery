@@ -24,7 +24,7 @@ params = {
     'Team': '',
     'BeginDate': '2021-10-19',
     'EndDate': '2024-06-03',
-    'InjuriesChkBx': 'yes',
+    'ILChkBx': 'yes',
     'Submit': 'Search',
     'start': 0
 }
