@@ -22,7 +22,7 @@ base_url = 'https://www.prosportstransactions.com/basketball/Search/SearchResult
 params = {
     'Player': '',
     'Team': '',
-    'BeginDate': '2021-10-19',
+    'BeginDate': '2021-10-18',
     'EndDate': '2024-06-03',
     'ILChkBx': 'yes',
     'Submit': 'Search',
